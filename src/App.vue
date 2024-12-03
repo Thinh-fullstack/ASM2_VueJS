@@ -19,6 +19,9 @@
               <li class="nav-item">
                 <router-link class="nav-link" to="/profile"><i class="fa-solid fa-user me-2"></i>Profile</router-link>
               </li>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/register"><i class="fa-solid fa-user me-2"></i>Register</router-link>
+              </li>
             </ul>
           </div>
         </div>
